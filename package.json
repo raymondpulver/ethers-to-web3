@@ -1,6 +1,6 @@
 {
   "name": "ethers-to-web3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "get a web3 provider that represents an ethers.js provider/signer",
   "main": "lib/ethers-to-web3.js",
   "repository": "https://github.com/raymondpulver/ethers-to-web3",
