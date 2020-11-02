@@ -1,0 +1,20 @@
+{
+  "name": "ethers-to-web3",
+  "version": "0.1.0",
+  "description": "get a web3 provider that represents an ethers.js provider/signer",
+  "main": "lib/ethers-to-web3.js",
+  "repository": "https://github.com/raymondpulver/ethers-to-web3",
+  "author": "Raymond Pulver IV",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eth-json-rpc-middleware": "^6.0.0",
+    "json-rpc-engine": "^5.3.0"
+  },
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "hardhat": "^2.0.2"
+  }
+}
